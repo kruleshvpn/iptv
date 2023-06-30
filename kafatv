@@ -59,12 +59,12 @@ https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/Y3w4QfW/H7B4QYF.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/Y3w4QfW/H7B4QYF.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
@@ -73,22 +73,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2 (A)
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾  
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="Drama Sangat" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/gAZfzvh.png",DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-https://stream.zeehanzgadget.com/dramasangat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/clearkey/unifitv/tv3/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V3.png",103 DRAMA SANGAT
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
@@ -133,8 +135,32 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://aqfadtv.xyz/live/prima/index.mpd
 http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157467
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/Y3w4QfW/H7B4QYF.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ria.png",104 ASTRO RIA
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/158347
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ch6R14r5OsieEh9e0w6srw", "kid":"fCYaySVKRei2c5lXx/FKvw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Warna.png",ASTRO WARNA SG (USE VPN SINGAPORE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://ucdn.starhubgo.com/bpk-tv/AstroWarna/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Warna.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",ASTRO WARNA
+#EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
+#EXTVLCOPT:http-icy-metadata=1
+https://speedtrademarket.com/livehd789/irinaspicy/vvip/warna
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ria.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",ASTRO RIA
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#EXTVLCOPT:http-icy-metadata=1
+#EXTVLCOPT:http-referer=smt.sky4k.eu.org
+https://speedtrademarket.com/livehd789/irinaspicy/vvip/ria
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
