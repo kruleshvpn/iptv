@@ -249,7 +249,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="RTMK07" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="MALAYSIA",PARLIMEN DEWAN RAKYAT
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="GoShopMalay111.my" group-title="MALAYSIA" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",GO SHOP BAARU
+#EXTINF:-1 tvg-id="GoShopMalay111.my" group-title="MALAYSIA" tvg-logo="https://img.astroawani.com/2017-11/81510039963_GOSHOP.jpg",GO SHOP BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
