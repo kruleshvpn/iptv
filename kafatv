@@ -193,7 +193,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",108 ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",ASTRO CITRA
 #EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
 #EXTVLCOPT:http-icy-metadata=1
 https://speedtrademarket.com/livehd789/irinaspicy/vvip/citra
@@ -202,7 +202,7 @@ https://speedtrademarket.com/livehd789/irinaspicy/vvip/citra
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptWXpZbVV3TmpndFkyTTNNQzAwTTJNd0xXSXpOekV0WmpNMlkyUXhOR001WTJRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY4NzgzODM0MCwiaWF0IjoxNjg3MjM0MzQwfQ.KKAo8uYc-awW3M2oAhJIxiv0vThkbpFS4xN7ThKypRw"}#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",108 ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",ASTRO CITRA
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
