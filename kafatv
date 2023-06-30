@@ -89,8 +89,8 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
 #KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V3.png",103 DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DRAMA SANGAT
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8?exp=1688158039&hmac=0x83740e5d9c9495a292971f76b1f472d62409814c015a225110f55d23020d3615
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
