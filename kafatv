@@ -189,6 +189,34 @@ https://iplogger.com/aura
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",ASTRO RANIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",108 ASTRO CITRA
+#EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
+#EXTVLCOPT:http-icy-metadata=1
+https://speedtrademarket.com/livehd789/irinaspicy/vvip/citra
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptWXpZbVV3TmpndFkyTTNNQzAwTTJNd0xXSXpOekV0WmpNMlkyUXhOR001WTJRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY4NzgzODM0MCwiaWF0IjoxNjg3MjM0MzQwfQ.KKAo8uYc-awW3M2oAhJIxiv0vThkbpFS4xN7ThKypRw"}#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Citra.png?0e26c2" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",108 ASTRO CITRA
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_INDOSIAR.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=205
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_SCTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=204
+
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
@@ -249,7 +277,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="RTMK07" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="MALAYSIA",PARLIMEN DEWAN RAKYAT
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="GoShopMalay111.my" group-title="MALAYSIA" tvg-logo="https://img.astroawani.com/2017-11/81510039963_GOSHOP.jpg",GO SHOP BAARU
+#EXTINF:-1 tvg-id="GoShopMalay111.my" group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",GO SHOP BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
