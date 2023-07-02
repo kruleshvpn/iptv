@@ -157,59 +157,76 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-#EXTINF:-1 tvg-id="SELANGOR" tvg-name="SELANGOR TV HD" group-title="KAFATV MALAYSIA" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png",119 SELANGOR TV (SERVER A)
+#EXTINF:-1 tvg-id="DRAMA" tvg-name="DRAMA HD" group-title="KAFATV MALAYSIA" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",119 DRAMA SANGAT (SERVER A)
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8?exp=1688295831&hmac=0x2f73700e31a7778907cdbdd7e8b15627cf2e84c94c19c6e431bfb014ab55041c
+
+#EXTINF:-1 tvg-id="SELANGOR" tvg-name="SELANGOR TV HD" group-title="KAFATV MALAYSIA" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png",120 SELANGOR TV (SERVER A)
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",120 UNIFI INSPIRASI (SERVER A)
+#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",121 UNIFI INSPIRASI (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",121 UNIFI SENSASI (SERVER A)
+#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",122 UNIFI SENSASI (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",122 UNIFI DEGUP (SERVER A)
+#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",123 UNIFI DEGUP (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
-#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",123 UNIFI DUNIA SINEMA (SERVER A)
+#EXTINF:-1 tvg-id="UNIFI" tvg-name="UNIFI HD" group-title="KAFATV MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",124 UNIFI DUNIA SINEMA (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",125 GO SHOP BAARU (SERVER A)
+#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",126 GO SHOP BAARU (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",126 GO SHOP RUUMA (SERVER A)
+#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",127 GO SHOP RUUMA (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",127 GO SHOP GAAYA (SERVER A)
+#EXTINF:-1 tvg-id="GOSHOP" tvg-name="GOSHOP HD" group-title="KAFATV MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",128 GO SHOP GAAYA (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
-#EXTINF:-1 tvg-id="RTMK" tvg-name="RTMKLIK HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png",128 PARLIMEN DEWAN NEGARA (SERVER A)
+#EXTINF:-1 tvg-id="RTMK" tvg-name="RTMKLIK HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png",129 PARLIMEN DEWAN NEGARA (SERVER A)
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
-#EXTINF:-1 tvg-id="RTMK" tvg-name="RTMKLIK HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",129 PARLIMEN DEWAN RAKYAT (SERVER A)
+#EXTINF:-1 tvg-id="RTMK" tvg-name="RTMKLIK HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png",130 PARLIMEN DEWAN RAKYAT (SERVER A)
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="RTB" tvg-name="RTB HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png",130 RTB SUKMAINDERA (SERVER A)
+#EXTINF:-1 tvg-id="RTB" tvg-name="RTB HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png",131 RTB SUKMAINDERA (SERVER A)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTB" tvg-name="RTB HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png",131 RTB ANEKA (SERVER A)
+#EXTINF:-1 tvg-id="RTB" tvg-name="RTB HD" group-title="KAFATV MALAYSIA" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png",132 RTB ANEKA (SERVER A)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS HD" group-title="KAFATV MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",132 TVS SARAWAK (SERVER A)
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS HD" group-title="KAFATV MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",133 TVS SARAWAK (SERVER A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="INDOSIAR" tvg-name="INDO HD" group-title="KAFATV MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_INDOSIAR.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",134 INDOSIAR (SERVER A)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=205
+
+#EXTINF:-1 tvg-id="SCTV" tvg-name="INDO HD" group-title="KAFATV MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_SCTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",135 SCTV (SERVER A)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=204
+
+##########################################################################################################################################
