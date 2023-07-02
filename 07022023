@@ -230,3 +230,119 @@ https://web.ottgo.live/socia/vidio23/icon.png?id=205
 https://web.ottgo.live/socia/vidio23/icon.png?id=204
 
 ##########################################################################################################################################
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s176-c-k-c0x00ffffff-no-rj",200 KAFATV
+https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",201 HITZ FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819292-90dcaf9c-814b-4b83-b30d-f76c57c8ea02.png",202 HITZ SABAH FM
+https://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819352-999d1e20-cde9-4cb2-84d0-16816b9a4b2d.png",203 HITZ SARAWAK FM
+https://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="http://4.bp.blogspot.com/-pX-suekr_xs/Te1VyFnsiEI/AAAAAAAABSE/0vrLyJLAsPw/s400/FM-Logo-THR-Gegar.jpg",204 THR GEGAR FM
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png",205 ERA FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819046-ed79afa6-48e1-492f-94e3-c19a59095c7d.png",206 ERA SABAH FM
+https://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819195-82e3d7c4-979f-4a7b-b9e0-41821d745179.png",207 ERA SARAWAK FM
+https://astro2.rastream.com/amp-era-kch
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",208 SINAR FM
+https://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="KAFATV RADIO" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",209 ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6324.1564812092.png",210 MIX FM
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hvEKW93hqh.jpg",211 INDIA BEAT FM
+https://astro4.rastream.com/india
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/f99qzc7trxuz.jpg",212 NASIONAL FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",213 RADIO KLASIK FM
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",214 ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",215 HOT FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://i.ibb.co/YckpG8w/image.png",216 KOOL FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",217 FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",218 MOLEK FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://pbs.twimg.com/profile_images/426155316758077440/FnJgAITy_400x400.jpeg",219 TRAXX FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",220 988 FM
+http://22283.live.streamtheworld.com/988_FMAAC.aac
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",221 SURIA FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", 222 MY FM
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819416-de9636f1-a2d0-41b8-83ee-07364aa3d6bb.png",223 MY SABAH FM
+https://astro1.rastream.com/amp-myfm-kk
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://user-images.githubusercontent.com/85995579/128819553-955ecb59-b3bc-4698-b73b-2e798490b6b2.png",224 MY SARAWAK FM
+https://astro1.rastream.com/amp-myfm-kch
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",225 LITE FM
+# https://astro1.rastream.com/lite
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",226 MELODY FM
+https://astro3.rastream.com/melody
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",227 RAAGA FM
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",228 ROCK FM
+https://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",229 GOLD FM
+https://astro4.rastream.com/gold
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",230 OPUS FM
+https://astro4.rastream.com/opus
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",231 JAZZ FM
+https://astro4.rastream.com/jazz
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",232 OSAI FM
+https://astro4.rastream.com/osai
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",233 BAYU FM
+https://astro4.rastream.com/bayu
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",234 KENYALANG FM
+https://astro4.rastream.com/kenyalang
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",235 ZAYAN FM
+https://astro3.rastream.com/astro-zayan
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",236 GOXUAN FM
+https://astro3.rastream.com/astro-goxuan
+
+#EXTINF:-1 group-title="KAFATV RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",237 ARENA FM
+https://astro1.rastream.com/amp-arena
+
+##########################################################################################################################################
