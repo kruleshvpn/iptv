@@ -997,7 +997,7 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157486
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus HD" group-title="7 KAFATV KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png", 308 ANIPLUS
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus HD" group-title="7 KAFATV KIDS" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png",708 ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1046,10 +1046,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5b65Xh/1280px-Junior-Logo-svg.png" group-title="7 KAFATV KIDS",718 HAPPYKIDS JUNIOR
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Rick and Morty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" group-title="7 KAFATV KIDS", 319 RICK AND MORTY TV
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Rick and Morty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" group-title="7 KAFATV KIDS",719 RICK AND MORTY TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="7 KAFATV KIDS", 320 ANGRY BIRD
+#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="7 KAFATV KIDS",720 ANGRY BIRD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="7 KAFATV KIDS",721 AT-X
@@ -1069,7 +1069,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/DisneyChannelHD.json
-#EXTINF:-1 tvg-id="DisneyChannelMENA.uk" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="7 KAFATV KIDS", 325 DISNEY CHANNEL (ID)
+#EXTINF:-1 tvg-id="DisneyChannelMENA.uk" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="7 KAFATV KIDS",725 DISNEY CHANNEL (ID)
 http://208.86.19.13:81/14.stream/index.m3u8 
 # https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
