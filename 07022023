@@ -10,3 +10,20 @@ https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.
 
 #EXTINF:-1 tvg-id="" tvg-chno="1" tvg-name="" radio="false" group-title="RADIO" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s900-c-k-c0x00ffffff-no-rj",RADIO - ID EXPIRED - CONTACT OWNER
 https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
+#EXTINF:-1 group-title="Malay" tvg-id="DramaSangat" ch-number="DramaSangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711/
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay",101 TV1 HD ASTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
+
+#EXTINF:-1 group-title="Malay" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 HD OFFCIAL
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+
