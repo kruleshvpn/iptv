@@ -1,14 +1,14 @@
 ###[KAFATV YOUR IPTV SOLUTION]###
 #EXTINF:-1 tvg-id="" tvg-chno="1" tvg-name="" radio="false" group-title="LIVE CHANNEL" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s900-c-k-c0x00ffffff-no-rj",LIVE CHANNEL - ID EXPIRED - CONTACT OWNER
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+http://drm.kafatv.me/kafatv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="1" tvg-name="" radio="false" group-title="MOVIE" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s900-c-k-c0x00ffffff-no-rj",MOVIE - ID EXPIRED - CONTACT OWNER
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+http://drm.kafatv.me/kafatv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="1" tvg-name="" radio="false" group-title="VOD / SERIES" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s900-c-k-c0x00ffffff-no-rj",VOD - ID EXPIRED - CONTACT OWNER
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+http://drm.kafatv.me/kafatv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="1" tvg-name="" radio="false" group-title="RADIO" tvg-logo="https://yt3.googleusercontent.com/0XVQ3hhtPdpL9vq2e7KEw45kfSsOwftZqvgBqFdaPO8VNC2qO7X9di9rWEGxZSVJllbtSOVnMw=s900-c-k-c0x00ffffff-no-rj",RADIO - ID EXPIRED - CONTACT OWNER
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
+http://drm.kafatv.me/kafatv.mpd
 
 
